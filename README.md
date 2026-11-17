@@ -112,6 +112,11 @@ test(navegacao): implementa exercicio 3 - navegacao por historico
 **Daniel Henrique Matos de Paiva**  
 Disciplina: Garantia da Qualidade de Software / Gestão e Qualidade de Software
 
+## 📋 Informações do Aluno
+
+**Nome:** Fernando Almeida  
+**RA:** 326132695
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
